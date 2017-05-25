@@ -1,0 +1,32 @@
+
+h1 {
+    text-decoration: overline;
+}
+ul.menubar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #388;
+}
+
+li.menubar {
+    float: left;
+}
+
+li.menubar a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+	list-style-type: none;
+}
+
+li.menubar a:hover {
+    background-color: #111;
+	
+}
+body {
+    background-image: url("https://gm1.ggpht.com/b11h3LomVzm4abXEdKA7OnFCYfUu3auuvXOuFFNmBrkFz2ml-J34bxmT9bSb2Mp2hwVNUPfbkZz6I8MNGPJCvfxMAkz7fB7MrUqwx6ZVFvzPS5os4Z_8_d-VeILQuGsr0JY6-ZgZkNXqT8ifgF7KpQHHiVCSDIqNRYOI5tEMo23FgiphlJav1Tf4eGuEE7VJMR_tXn-KadkTFYsvhQLh9MNRiwBvFHBHw4g70xUXYk70OdEZS8JnHBNqo-H_dJk31smNm0BNj2dxwe2Hgq4Ddq7rCLlPI0GvVbWKwjQxgoUtNCsySc5tqLG5y5zk6wRnCPoSLaIalLyXCXUO5IDz8uaSf0Gmj5P-CrNFpWU35jiGNczbDOh2Fm0UWYLIlOPBdjGmigE0ls9rrua-QMyifjiYWnRkd3K8KqLh4RZ6-rAySEuF4d6NVqbuB3Phf5EGbSwFoQCpm7ofLOXqHik1TVqwzDe2iFqBM20W5GhtPdwUTZlJdmBB_K8QLmnPLF38ODCmvfNTcBndxRGxjdv47zXtCWad4rz-m9UIrrbbsN7bc0kRUJD9_-odH4ZgG8WhXURC6AINUnnDOQfdSailGZgp_85PcwDHDXKFxdK8HADPfa_HHvC5C-44PluOx16VvPpYvMckF-BYXz2MJ-PIXVsj85a2_G69pkg9Bd0HKW-ZzJI5=w504-h400-l75-ft");
+}
